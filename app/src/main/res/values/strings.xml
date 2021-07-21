@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">overlaySmile</string>
+    <string name="float_off">1.Option off meaning the app is fixed and you cant grab it on top of screen To close it tap on X icon</string>
+    <string name="float_on">2.Option on meaning the app is floating on the top of the screen, to close it grab the icon to right bottom corner</string>
+</resources>
